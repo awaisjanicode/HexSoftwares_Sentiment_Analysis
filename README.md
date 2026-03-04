@@ -73,10 +73,10 @@ The project follows the below steps:
 ## 🔍 Example Prediction
 
 Input: "I love this Alexa device. It works perfectly!"
-Output:Output:
+Output: Positive 😊
 
 Input: "Worst product I have ever bought."
-output:"Worst product I have ever bought."
+output:Negative 😡
 
 
 ---
