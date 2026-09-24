@@ -1,5 +1,4 @@
-# HexSoftwares_Sentiment_Analysis
-# HexSoftwares_Sentiment_Analysis
+# HexSoftwares Sentiment Analysis
 
 ## 📌 Project Description
 
@@ -66,7 +65,7 @@ The project follows the below steps:
 
 ## 📈 Model Performance
 
-- Achieved high accuracy on test data.
+- See the notebook output for the measured test-set accuracy; no fixed benchmark is claimed here.
 - The model successfully classifies reviews into Positive and Negative sentiments.
 
 ---
@@ -91,4 +90,15 @@ The trained model can help businesses understand customer opinions and improve t
 
 ## 🚀 Internship Project
 
-This project was completed as part of the Machine Learning Internship at HexSoftwres.
+This project was completed as part of the Machine Learning Internship at HexSoftwares.
+
+## Run the notebook
+
+```bash
+git clone https://github.com/awaisjanicode/HexSoftwares_Sentiment_Analysis.git
+cd HexSoftwares_Sentiment_Analysis
+pip install notebook pandas numpy nltk scikit-learn
+jupyter notebook Sentiment_analysis_project.ipynb
+```
+
+The review dataset is not tracked in this repository. Provide it at the path expected by the notebook before running all cells.
